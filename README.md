@@ -8,21 +8,20 @@ The dashboard provides insights into sales performance, customer ratings, order 
 
 ---
 
-## Objectives
+## Business Insights
 
-- Analyze overall sales performance
-- Track monthly, weekly and daily sales trends
-- Compare sales across states
-- Analyze Veg vs Non-Veg sales
-- Monitor customer ratings
-- Identify top-performing cities
-- Build an interactive dashboard using Excel
+- Bengaluru generated the highest sales among all cities.
+- Non-Veg food accounted for approximately 64% of total sales, while Veg contributed around 36%.
+- Saturday recorded the highest daily sales, indicating increased weekend demand.
+- Q2 achieved the highest quarterly sales performance.
+- The average customer rating remained stable at 4.34, indicating consistent customer satisfaction.
+- The average order value was ₹268.51 across all orders.
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard Screenshot/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
